@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.41866f2b.chunk.css",
+    "main.js": "/resume/static/js/main.0b415e03.chunk.js",
+    "main.js.map": "/resume/static/js/main.0b415e03.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.6086f8f2.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.6086f8f2.js.map",
+    "static/css/2.23802283.chunk.css": "/resume/static/css/2.23802283.chunk.css",
+    "static/js/2.96cc5a4d.chunk.js": "/resume/static/js/2.96cc5a4d.chunk.js",
+    "static/js/2.96cc5a4d.chunk.js.map": "/resume/static/js/2.96cc5a4d.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.6bf341a5f5ae9999ec01213c35e42bc1.js": "/resume/precache-manifest.6bf341a5f5ae9999ec01213c35e42bc1.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.23802283.chunk.css.map": "/resume/static/css/2.23802283.chunk.css.map",
+    "static/css/main.41866f2b.chunk.css.map": "/resume/static/css/main.41866f2b.chunk.css.map",
+    "static/js/2.96cc5a4d.chunk.js.LICENSE.txt": "/resume/static/js/2.96cc5a4d.chunk.js.LICENSE.txt",
+    "static/media/agent-dash.jpg": "/resume/static/media/agent-dash.32f024b6.jpg",
+    "static/media/black-girl.jpg": "/resume/static/media/black-girl.e5748db4.jpg",
+    "static/media/colorful-elephant.jpg": "/resume/static/media/colorful-elephant.f2751dc5.jpg",
+    "static/media/dissertation.pdf": "/resume/static/media/dissertation.ee08b836.pdf",
+    "static/media/girl-with-pot-tumb.jpg": "/resume/static/media/girl-with-pot-tumb.b521b442.jpg",
+    "static/media/girl-with-pot.jpg": "/resume/static/media/girl-with-pot.7442f2b7.jpg",
+    "static/media/pix-admin.jpg": "/resume/static/media/pix-admin.6241910c.jpg",
+    "static/media/pix.jpg": "/resume/static/media/pix.9e6da609.jpg",
+    "static/media/poruwa-admin.jpg": "/resume/static/media/poruwa-admin.09fa84d4.jpg",
+    "static/media/profile-pic.png": "/resume/static/media/profile-pic.867b89ed.png",
+    "static/media/ransis-arcade-tumb.png": "/resume/static/media/ransis-arcade-tumb.a57a8d62.png",
+    "static/media/ransis-arcade.png": "/resume/static/media/ransis-arcade.5372750e.png",
+    "static/media/three-elephants.jpg": "/resume/static/media/three-elephants.ddc1f3e5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6086f8f2.js",
+    "static/css/2.23802283.chunk.css",
+    "static/js/2.96cc5a4d.chunk.js",
+    "static/css/main.41866f2b.chunk.css",
+    "static/js/main.0b415e03.chunk.js"
+  ]
+}
